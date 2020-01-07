@@ -1,7 +1,6 @@
-# Lists-Tuples-Dictionaries
+# Data Science using Spyder
 
 
 
 
-
-Data Science using Spyder
+List-Tuples-Dictionaries
